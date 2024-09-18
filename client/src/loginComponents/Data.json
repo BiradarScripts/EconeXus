@@ -1,0 +1,8 @@
+{
+    "Interests": [
+        {"interest": "Nodejs", "category": "Technology"},
+        {"interest": "JavaScript", "category": "Technology"},
+        {"interest": "Web Development", "category": "Technology"},
+        {"interest": "Artificial Intelligence", "category": "Technology"}
+    ]
+}
