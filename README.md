@@ -19,13 +19,13 @@ To foster virtual connections among members of the EconeXus platform.
 The landing page of EconeXus, brought to life using **Framer Motion**, gives users an interactive and animated experience, providing an overview of the platform's features and purpose.
 
 #### **`Profile`**
-![image](https://github.com/user-attachments/assets/b21d2788-e682-4e37-98cc-a08f49d9b53e)
-
+![image](https://github.com/user-attachments/assets/51819ac3-0da7-4707-b7df-e4f196e45edc)
 Users can view and manage their **Name**, **Designation**, **Interests**, and **Profile Picture** in a well-organized card layout. This page offers a comprehensive look at the user’s profile information.
 
 #### **`Post`**
-![image](https://github.com/user-attachments/assets/5f9b3905-9412-4063-922d-d3494953f85a)  ![image](https://github.com/user-attachments/assets/cb62abb9-9503-4c56-aa67-a32c39164b2c)
+![image](https://github.com/user-attachments/assets/5f9b3905-9412-4063-922d-d3494953f85a) 
 
+![image](https://github.com/user-attachments/assets/a41a0990-f1fb-46a0-80b5-1e41feab14ee)
 
 This feature allows users to **create**, **view**, **delete**, and **edit** their posts, providing a space for sharing thoughts and interacting with the community.
 
