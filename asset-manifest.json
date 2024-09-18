@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/BiradarScripts/Econexus/static/css/main.b74d4d87.css",
+    "main.js": "/BiradarScripts/Econexus/static/js/main.75119626.js",
+    "static/js/787.0c3f432a.chunk.js": "/BiradarScripts/Econexus/static/js/787.0c3f432a.chunk.js",
+    "static/media/andrew_seb.png": "/BiradarScripts/Econexus/static/media/andrew_seb.ac859f25789e67d028d6.png",
+    "static/media/Screenshot 2023-08-25 132235.png": "/BiradarScripts/Econexus/static/media/Screenshot 2023-08-25 132235.316e13bcaceecc6ddf63.png",
+    "static/media/rename.mp4": "/BiradarScripts/Econexus/static/media/rename.28ee2d2924d0523eacab.mp4",
+    "static/media/sidepic.png": "/BiradarScripts/Econexus/static/media/sidepic.2d9415483bbc2c8afab3.png",
+    "static/media/new_profile.jpeg": "/BiradarScripts/Econexus/static/media/new_profile.d5b7ac922ef23e5ff239.jpeg",
+    "static/media/fotor-ai-2023082220440.jpg": "/BiradarScripts/Econexus/static/media/fotor-ai-2023082220440.532f3701b48f59cc17e8.jpg",
+    "static/media/experience.mp4": "/BiradarScripts/Econexus/static/media/experience.5a0046ba66f6c1834eb0.mp4",
+    "static/media/HD-wallpaper-your-mind-blue-sky.jpg": "/BiradarScripts/Econexus/static/media/HD-wallpaper-your-mind-blue-sky.57ef29f1b2907f3c2a7d.jpg",
+    "static/media/right.jpg": "/BiradarScripts/Econexus/static/media/right.ac27cee26452e7fc82bb.jpg",
+    "static/media/down1.jpg": "/BiradarScripts/Econexus/static/media/down1.6f71df2d9cec563c1c71.jpg",
+    "static/media/left.jpg": "/BiradarScripts/Econexus/static/media/left.8823a97eccb06446313c.jpg",
+    "static/media/down2.jpg": "/BiradarScripts/Econexus/static/media/down2.db87988741470f48d892.jpg",
+    "static/media/up1.jpg": "/BiradarScripts/Econexus/static/media/up1.0852f32d5d91eb0a72ad.jpg",
+    "static/media/up2.jpg": "/BiradarScripts/Econexus/static/media/up2.c95102a76d70caeb78e2.jpg",
+    "static/media/profile_img.jpeg": "/BiradarScripts/Econexus/static/media/profile_img.46bf1363381b4dffb659.jpeg",
+    "static/media/profile_logo.png": "/BiradarScripts/Econexus/static/media/profile_logo.0d14c6999b4a5c8e86a7.png",
+    "index.html": "/BiradarScripts/Econexus/index.html",
+    "main.b74d4d87.css.map": "/BiradarScripts/Econexus/static/css/main.b74d4d87.css.map",
+    "main.75119626.js.map": "/BiradarScripts/Econexus/static/js/main.75119626.js.map",
+    "787.0c3f432a.chunk.js.map": "/BiradarScripts/Econexus/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b74d4d87.css",
+    "static/js/main.75119626.js"
+  ]
+}
